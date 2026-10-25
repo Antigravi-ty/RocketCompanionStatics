@@ -1,0 +1,13 @@
+# Binary static assets (prevent text diffs and line-ending conversion)
+*.m4a binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
+*.wasm binary
+*.cmf binary
+*.woff binary
+*.woff2 binary
+*.glb binary
+*.webp binary
+*.safetensors binary
+*.bin binary
