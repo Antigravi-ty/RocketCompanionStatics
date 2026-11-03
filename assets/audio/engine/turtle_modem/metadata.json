@@ -1,0 +1,298 @@
+{
+  "id": "turtle_modem",
+  "name": "Turtle Modem",
+  "sample_rate": 48000,
+  "idle_loop_file": "idle_loop.m4a",
+  "idle_freq_hz": 37.02,
+  "accel_ramp_file": "accel_ramp.m4a",
+  "entity_spawn_file": "sfx/entity_spawn.m4a",
+  "pop_files": [
+    "sfx/pop_01.m4a",
+    "sfx/pop_02.m4a",
+    "sfx/pop_03.m4a",
+    "sfx/pop_04.m4a",
+    "sfx/pop_05.m4a"
+  ],
+  "slices": [
+    {
+      "index": 0,
+      "rpm": 900,
+      "freq": 37.65,
+      "on_file": "slices/slice_00_900rpm_on.m4a",
+      "off_file": "slices/slice_00_900rpm_off.m4a"
+    },
+    {
+      "index": 1,
+      "rpm": 966,
+      "freq": 38.13,
+      "on_file": "slices/slice_01_966rpm_on.m4a",
+      "off_file": "slices/slice_01_966rpm_off.m4a"
+    },
+    {
+      "index": 2,
+      "rpm": 1151,
+      "freq": 39.47,
+      "on_file": "slices/slice_02_1151rpm_on.m4a",
+      "off_file": "slices/slice_02_1151rpm_off.m4a"
+    },
+    {
+      "index": 3,
+      "rpm": 1271,
+      "freq": 40.34,
+      "on_file": "slices/slice_03_1271rpm_on.m4a",
+      "off_file": "slices/slice_03_1271rpm_off.m4a"
+    },
+    {
+      "index": 4,
+      "rpm": 1409,
+      "freq": 41.34,
+      "on_file": "slices/slice_04_1409rpm_on.m4a",
+      "off_file": "slices/slice_04_1409rpm_off.m4a"
+    },
+    {
+      "index": 5,
+      "rpm": 1534,
+      "freq": 42.25,
+      "on_file": "slices/slice_05_1534rpm_on.m4a",
+      "off_file": "slices/slice_05_1534rpm_off.m4a"
+    },
+    {
+      "index": 6,
+      "rpm": 1665,
+      "freq": 43.2,
+      "on_file": "slices/slice_06_1665rpm_on.m4a",
+      "off_file": "slices/slice_06_1665rpm_off.m4a"
+    },
+    {
+      "index": 7,
+      "rpm": 1803,
+      "freq": 44.2,
+      "on_file": "slices/slice_07_1803rpm_on.m4a",
+      "off_file": "slices/slice_07_1803rpm_off.m4a"
+    },
+    {
+      "index": 8,
+      "rpm": 1899,
+      "freq": 44.9,
+      "on_file": "slices/slice_08_1899rpm_on.m4a",
+      "off_file": "slices/slice_08_1899rpm_off.m4a"
+    },
+    {
+      "index": 9,
+      "rpm": 2000,
+      "freq": 45.63,
+      "on_file": "slices/slice_09_2000rpm_on.m4a",
+      "off_file": "slices/slice_09_2000rpm_off.m4a"
+    },
+    {
+      "index": 10,
+      "rpm": 2134,
+      "freq": 46.6,
+      "on_file": "slices/slice_10_2134rpm_on.m4a",
+      "off_file": "slices/slice_10_2134rpm_off.m4a"
+    },
+    {
+      "index": 11,
+      "rpm": 2241,
+      "freq": 47.38,
+      "on_file": "slices/slice_11_2241rpm_on.m4a",
+      "off_file": "slices/slice_11_2241rpm_off.m4a"
+    },
+    {
+      "index": 12,
+      "rpm": 2327,
+      "freq": 48.0,
+      "on_file": "slices/slice_12_2327rpm_on.m4a",
+      "off_file": "slices/slice_12_2327rpm_off.m4a"
+    },
+    {
+      "index": 13,
+      "rpm": 2413,
+      "freq": 48.63,
+      "on_file": "slices/slice_13_2413rpm_on.m4a",
+      "off_file": "slices/slice_13_2413rpm_off.m4a"
+    },
+    {
+      "index": 14,
+      "rpm": 2517,
+      "freq": 49.38,
+      "on_file": "slices/slice_14_2517rpm_on.m4a",
+      "off_file": "slices/slice_14_2517rpm_off.m4a"
+    },
+    {
+      "index": 15,
+      "rpm": 2616,
+      "freq": 50.1,
+      "on_file": "slices/slice_15_2616rpm_on.m4a",
+      "off_file": "slices/slice_15_2616rpm_off.m4a"
+    },
+    {
+      "index": 16,
+      "rpm": 2711,
+      "freq": 50.79,
+      "on_file": "slices/slice_16_2711rpm_on.m4a",
+      "off_file": "slices/slice_16_2711rpm_off.m4a"
+    },
+    {
+      "index": 17,
+      "rpm": 2772,
+      "freq": 51.23,
+      "on_file": "slices/slice_17_2772rpm_on.m4a",
+      "off_file": "slices/slice_17_2772rpm_off.m4a"
+    },
+    {
+      "index": 18,
+      "rpm": 2863,
+      "freq": 51.89,
+      "on_file": "slices/slice_18_2863rpm_on.m4a",
+      "off_file": "slices/slice_18_2863rpm_off.m4a"
+    },
+    {
+      "index": 19,
+      "rpm": 2990,
+      "freq": 52.81,
+      "on_file": "slices/slice_19_2990rpm_on.m4a",
+      "off_file": "slices/slice_19_2990rpm_off.m4a"
+    },
+    {
+      "index": 20,
+      "rpm": 4520,
+      "freq": 63.91,
+      "on_file": "slices/slice_20_4520rpm_on.m4a",
+      "off_file": "slices/slice_20_4520rpm_off.m4a"
+    },
+    {
+      "index": 21,
+      "rpm": 4615,
+      "freq": 64.6,
+      "on_file": "slices/slice_21_4615rpm_on.m4a",
+      "off_file": "slices/slice_21_4615rpm_off.m4a"
+    },
+    {
+      "index": 22,
+      "rpm": 4736,
+      "freq": 65.48,
+      "on_file": "slices/slice_22_4736rpm_on.m4a",
+      "off_file": "slices/slice_22_4736rpm_off.m4a"
+    },
+    {
+      "index": 23,
+      "rpm": 5016,
+      "freq": 67.51,
+      "on_file": "slices/slice_23_5016rpm_on.m4a",
+      "off_file": "slices/slice_23_5016rpm_off.m4a"
+    },
+    {
+      "index": 24,
+      "rpm": 5030,
+      "freq": 67.61,
+      "on_file": "slices/slice_24_5030rpm_on.m4a",
+      "off_file": "slices/slice_24_5030rpm_off.m4a"
+    },
+    {
+      "index": 25,
+      "rpm": 5122,
+      "freq": 68.28,
+      "on_file": "slices/slice_25_5122rpm_on.m4a",
+      "off_file": "slices/slice_25_5122rpm_off.m4a"
+    },
+    {
+      "index": 26,
+      "rpm": 5129,
+      "freq": 68.33,
+      "on_file": "slices/slice_26_5129rpm_on.m4a",
+      "off_file": "slices/slice_26_5129rpm_off.m4a"
+    },
+    {
+      "index": 27,
+      "rpm": 5229,
+      "freq": 69.06,
+      "on_file": "slices/slice_27_5229rpm_on.m4a",
+      "off_file": "slices/slice_27_5229rpm_off.m4a"
+    },
+    {
+      "index": 28,
+      "rpm": 5243,
+      "freq": 69.16,
+      "on_file": "slices/slice_28_5243rpm_on.m4a",
+      "off_file": "slices/slice_28_5243rpm_off.m4a"
+    },
+    {
+      "index": 29,
+      "rpm": 5314,
+      "freq": 69.67,
+      "on_file": "slices/slice_29_5314rpm_on.m4a",
+      "off_file": "slices/slice_29_5314rpm_off.m4a"
+    },
+    {
+      "index": 30,
+      "rpm": 5398,
+      "freq": 70.28,
+      "on_file": "slices/slice_30_5398rpm_on.m4a",
+      "off_file": "slices/slice_30_5398rpm_off.m4a"
+    },
+    {
+      "index": 31,
+      "rpm": 5660,
+      "freq": 72.18,
+      "on_file": "slices/slice_31_5660rpm_on.m4a",
+      "off_file": "slices/slice_31_5660rpm_off.m4a"
+    },
+    {
+      "index": 32,
+      "rpm": 5766,
+      "freq": 72.95,
+      "on_file": "slices/slice_32_5766rpm_on.m4a",
+      "off_file": "slices/slice_32_5766rpm_off.m4a"
+    },
+    {
+      "index": 33,
+      "rpm": 5773,
+      "freq": 73.0,
+      "on_file": "slices/slice_33_5773rpm_on.m4a",
+      "off_file": "slices/slice_33_5773rpm_off.m4a"
+    },
+    {
+      "index": 34,
+      "rpm": 5781,
+      "freq": 73.06,
+      "on_file": "slices/slice_34_5781rpm_on.m4a",
+      "off_file": "slices/slice_34_5781rpm_off.m4a"
+    },
+    {
+      "index": 35,
+      "rpm": 5788,
+      "freq": 73.11,
+      "on_file": "slices/slice_35_5788rpm_on.m4a",
+      "off_file": "slices/slice_35_5788rpm_off.m4a"
+    },
+    {
+      "index": 36,
+      "rpm": 5826,
+      "freq": 73.39,
+      "on_file": "slices/slice_36_5826rpm_on.m4a",
+      "off_file": "slices/slice_36_5826rpm_off.m4a"
+    },
+    {
+      "index": 37,
+      "rpm": 5858,
+      "freq": 73.62,
+      "on_file": "slices/slice_37_5858rpm_on.m4a",
+      "off_file": "slices/slice_37_5858rpm_off.m4a"
+    },
+    {
+      "index": 38,
+      "rpm": 5873,
+      "freq": 73.73,
+      "on_file": "slices/slice_38_5873rpm_on.m4a",
+      "off_file": "slices/slice_38_5873rpm_off.m4a"
+    },
+    {
+      "index": 39,
+      "rpm": 6000,
+      "freq": 74.65,
+      "on_file": "slices/slice_39_6000rpm_on.m4a",
+      "off_file": "slices/slice_39_6000rpm_off.m4a"
+    }
+  ]
+}
